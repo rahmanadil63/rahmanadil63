@@ -1,0 +1,10 @@
+Name: Adil Rahman
+Email: rahmanadil63@gmail.com
+Date: May 7, 2021
+
+n=int(input("Please enter a number: "))
+word=input("Please type a word: ")
+for i in range(n,0,-1):
+    print(i,end=', ')
+print()
+print(word)
